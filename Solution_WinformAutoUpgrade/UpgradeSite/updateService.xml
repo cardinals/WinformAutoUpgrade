@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+  <!--<file path="BLL.dll"  url="http://localhost:6666/ReleaseVersion/BLL.dll" lastver="1.0.0.2" size="4196" needRestart="true" />
+  <file path="bll\BLL1.dll"  url="http://localhost:6666/ReleaseVersion/bll/BLL1.dll" lastver="1.0.0.1" size="4196" needRestart="true" />
+  <file path="DAL.dll"  url="http://localhost:6666/ReleaseVersion/DAL.dll" lastver="1.0.0.2" size="4196" needRestart="true" />
+  <file path="Log.config"  url="http://localhost:6666/ReleaseVersion/Log.config" lastver="1.0.0.3" size="1227" needRestart="true" />
+  <file path="log4net.dll"  url="http://localhost:6666/ReleaseVersion/log4net.dll" lastver="1.0.0.2" size="271336" needRestart="true" />
+  <file path="UpgradeClient.exe"  url="http://localhost:6666/ReleaseVersion/UpgradeClient.exe" lastver="1.0.0.1" size="24064" needRestart="true" />
+  <file path="help.txt"  url="http://localhost:6666/ReleaseVersion/help.txt" lastver="1.0.0.3" size="271336" needRestart="true" />
+  <file path="npoi-2.1.3.1.zip"  url="http://localhost:6666/ReleaseVersion/npoi-2.1.3.1.zip" lastver="1.0.0.2" size="101897000" needRestart="false" />-->
+
+
+  <file path="bll/bll/BLL1.dll"  url="http://localhost:6666/ReleaseVersion/bll/bll/BLL1.dll" lastver="1.0.0.1" size="4196" needRestart="true" />
+  <!--<file path="bll/BLL1.dll"  url="http://localhost:6666/ReleaseVersion/bll/BLL1.dll" lastver="1.0.0.1" size="4196" needRestart="true" />-->
+  <file path="BLL.dll"  url="http://localhost:6666/ReleaseVersion/BLL.dll" lastver="1.0.0.1" size="4196" needRestart="true" />
+  <file path="DAL.dll"  url="http://localhost:6666/ReleaseVersion/DAL.dll" lastver="1.0.0.1" size="4196" needRestart="true" />
+  <file path="Log.config"  url="http://localhost:6666/ReleaseVersion/Log.config" lastver="1.0.0.1" size="1227" needRestart="true" />
+  <file path="log4net.dll"  url="http://localhost:6666/ReleaseVersion/log4net.dll" lastver="1.0.0.0" size="271336" needRestart="true" />
+  <file path="UpgradeClient.exe"  url="http://localhost:6666/ReleaseVersion/UpgradeClient.exe" lastver="1.0.0.0" size="24064" needRestart="true" />
+  <file path="help.txt"  url="http://localhost:6666/ReleaseVersion/help.txt" lastver="1.0.0.0" size="271336" needRestart="true" />
+</updateFiles>
