@@ -76,6 +76,7 @@
   <ItemGroup>
     <Content Include="updateService.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="ReleaseVersion\Log.config" />
     <Content Include="ReleaseVersion\update.config" />
