@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Common", "0-Common", "{2C4F6EA5-DFBF-478F-8BFD-E03DC5DB7035}"
 EndProject
@@ -30,6 +30,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.Tools", "Win.Tools\Win.Tools.csproj", "{F852C56D-1F28-463B-B417-4F40B9CF1491}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpgradeSite", "UpgradeSite\UpgradeSite.csproj", "{D9599214-548B-475B-AD9A-21856C62FEAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shortcuts", "Shortcuts", "{D75E5A7B-EDCC-4BA1-A6DA-5CB3E0A99FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsApp", "FormsApp\FormsApp.csproj", "{9DACA404-197B-48F6-95B2-D69196AB7AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +69,10 @@ Global
 		{D9599214-548B-475B-AD9A-21856C62FEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9599214-548B-475B-AD9A-21856C62FEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9599214-548B-475B-AD9A-21856C62FEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DACA404-197B-48F6-95B2-D69196AB7AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DACA404-197B-48F6-95B2-D69196AB7AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DACA404-197B-48F6-95B2-D69196AB7AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DACA404-197B-48F6-95B2-D69196AB7AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +88,7 @@ Global
 		{796DA28E-43FC-41AD-B6BC-86952975DBCE} = {B6FD366D-A853-44C8-AEDA-2254E467D2DD}
 		{F852C56D-1F28-463B-B417-4F40B9CF1491} = {BDEBE5B2-9B7C-4EEB-A19D-F6D30C3059F7}
 		{D9599214-548B-475B-AD9A-21856C62FEAC} = {AD45934C-3B39-4529-BF5A-31E8E6F11840}
+		{D75E5A7B-EDCC-4BA1-A6DA-5CB3E0A99FD7} = {A15A9C9A-69D4-421E-8C12-D34E21259C99}
+		{9DACA404-197B-48F6-95B2-D69196AB7AA6} = {D75E5A7B-EDCC-4BA1-A6DA-5CB3E0A99FD7}
 	EndGlobalSection
 EndGlobal
